@@ -1,2 +1,2 @@
-# python_-
+# python_jichu
 python_基础
